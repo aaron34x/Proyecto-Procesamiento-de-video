@@ -11,3 +11,4 @@ Este proyecto está enfocado en el diseño de un sistema que permita calcular el
 
 
 ## Resultados:
+<img scr="resultados.png" width=>
