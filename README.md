@@ -11,4 +11,5 @@ Este proyecto está enfocado en el diseño de un sistema que permita calcular el
 
 
 ## Resultados:
-<img scr="resultado1.png" width=100>
+![](resultado1.png)
+![](resultado2.png)
