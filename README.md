@@ -1,7 +1,9 @@
 # Proyecto-Procesamiento-de-video
 ## Integrantes
 Aaron Santiago Pedraza 
+
 Sergio Ivan Otero Reyes 
+
 Carlos Humberto Diaz De Luque 
 
 ## Descripcion
