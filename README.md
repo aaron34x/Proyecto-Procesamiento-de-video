@@ -16,6 +16,7 @@ Este proyecto está enfocado en el diseño de un sistema que permita calcular el
 ## Resultados:
 ![](resultados.png)
 ![](resultado2.png)
-## Link de explicacion 
 
+## Link de explicacion 
+Por cuestiones de seguridad el video de la estacion no se puede subir ya que es suministrado por la empresa Combuscol y no permite su distribución.
 [link](https://www.youtube.com/watch?v=ekEBmkNpLlY)
